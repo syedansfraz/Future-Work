@@ -1,0 +1,32 @@
+Non-profit Food/Cash Charity App
+App maintenance revenue generates from Ads 
+Login Page
+Donor or Seeker
+if Seeker:
+Threshold criteria(discuss later)
+Fill the form
+their identity will not be compromised
+Need Cash?
+1: Personal Info
+2: Location
+3: for Verification need these(employement status,family size, pay slip etc) through giving him the location of spot/ngo in reponse to his message
+4: why you need that money
+Optional
+5: days remaining to fulfil that need
+if Need Food?
+1: No of persons and apply, the donors resturants will receive a noti in app if that person is under 5km of radius.
+if Donor:
+and donor of cash:
+1: will get options like donate to conflict affected people or needy people, then the money will be transferred to those people for whom he denoted.
+and if donor of food:
+1: if food is available then send their own rider to the location which is within 5km.
+why ios?
+1:Enhanced Security: iOS is known for its strong security features, including robust encryption and stringent app review processes, which help protect user data and maintain privacy. This is particularly important for an app handling sensitive information, such as personal details and financial needs.
+2:Privacy Policies: Apple's strict privacy policies ensure that user data is handled responsibly, which is crucial for gaining user trust, especially in a non-profit setting.
+3:Wealthier User Base: Statistics often show that iOS users tend to have higher income levels compared to Android users. This demographic is more likely to include potential donors who can provide financial support to the needy.
+4:Global Reach: While iOS market share may be lower in some regions, it still has significant global reach. Targeting iOS users can help tap into a global network of potential donors who can contribute to your cause.
+5:Integration with Apple Services: iOS provides seamless integration with various Apple services (like Apple Pay, which can be used for donations), enhancing the functionality and user convenience of the app.
+6:Focus and Quality: Focusing on one platform initially allows you to allocate resources more effectively, ensuring higher quality and better support for the app. Once the app is successful and you have validated your concept, you can plan for an Android version with lessons learned from the iOS experience.
+
+
+
